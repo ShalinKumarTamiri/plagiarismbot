@@ -50,9 +50,9 @@
     
  ## Images of bot :
  
-    ![chat](https://raw.githubusercontent.com/ShalinKumarTamiri/plagiarismbot/main/images/bandicam%202020-11-08%2017-46-53-674.jpg)
+   ![chat](https://raw.githubusercontent.com/ShalinKumarTamiri/plagiarismbot/main/images/bandicam%202020-11-08%2017-46-53-674.jpg)
     
-    ![chat2](https://raw.githubusercontent.com/ShalinKumarTamiri/plagiarismbot/main/images/bandicam%202020-11-08%2018-15-53-783.jpg)
+   ![chat2](https://raw.githubusercontent.com/ShalinKumarTamiri/plagiarismbot/main/images/bandicam%202020-11-08%2018-15-53-783.jpg)
     
  ## Heroku Link :
  
