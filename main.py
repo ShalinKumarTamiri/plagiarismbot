@@ -23,3 +23,7 @@ def user_message():
         return handle(request.form)
     else:
         return "INVALID"
+    
+
+if __name__ == '__main__':
+    app.run(threaded=True,port=5000)
